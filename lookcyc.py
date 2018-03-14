@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import requests
 import json
 import os
-os.system('cls')
+os.system('cls')  #windows清視窗
 
 ###############################
 api_request = requests.get("https://api.coinmarketcap.com/v1/ticker/")
