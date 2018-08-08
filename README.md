@@ -1,3 +1,3 @@
 # python_CryptoCurrencyPortfolioApp
 
-![image](pycryptoDemo.jpg)
+![image](https://github.com/ChiShengChen/python_CryptoCurrencyPortfolioApp/raw/master/pycryptoDemo.jpg)
